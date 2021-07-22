@@ -26,5 +26,5 @@ title ID for this work. We can view this record at
 `http://isfdb.org/cgi-bin/title.cgi?[ISFDB ID]`  
 - Title: The title of the work
 - Author: The author(s) / editor(s) of the work
-- Year: The initial publication of the work
+- Year: The initial publication year of the work
 
