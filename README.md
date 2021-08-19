@@ -5,11 +5,11 @@ in the [HathiTrust Digital Library](https://www.hathitrust.org).
 
 Data Files
 ---------
-In the near future it will contain:
-1. A list of English-language SF volumes in HathiTrust. It will focus
-on works published from 1900&ndash;2010.
-2. A reduced list of HathiTrust volumes that correspond to English-language SF anthologies.
+### english_sf.tsv
+A list of English-language SF volumes in HathiTrust. It focuses on works published from 1900&ndash;2010.
 
+### Coming soon
+In the near future there will also contain reduced list of HathiTrust volumes that correspond to English-language SF anthologies.
 Further in the future, we hope to add a list of non-English SF volumes in HathiTrust.
 
 Metadata Fields
@@ -28,3 +28,9 @@ title ID for this work. We can view this record at
 - Author: The author(s) / editor(s) of the work
 - Year: The initial publication year of the work
 
+Corpus Statistics
+-----------------
+
+| List | # Volumes | # Works | # Authors / Editors |
+|:- | -: | -: | -: |
+| english_sf.tsv | 5,811 | 2,235 | 1,203 |
