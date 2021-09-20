@@ -1269,7 +1269,6 @@ mdp.39015064727020	5291441	2374	257301	World War Z: An Oral History of the Zombi
 mdp.39015066787493	5291441	2374	257301	World War Z: An Oral History of the Zombie War	Max Brooks	2006
 pst.000018854497	12260654	2378	1800	Heir of Sea and Fire	Patricia A. McKillip	1977
 mdp.39015080874590	6834756	2461	927679	Conspirator	C. J. Cherryh	2009
-mdp.39015003498436	764340	15477	34211	The Magazine of Fantasy & Science Fiction: A 30 Year Retrospective	Edward L. Ferman	1980
 mdp.39015074299036	5623103	2471	390171	The Orc King	R. A. Salvatore	2007
 ucbk.ark:/28722/h2q23r22f	102763139	2482	1139069	The Way of Kings	Brandon Sanderson	2010
 mdp.39015078812743	5957651	2487	829711	The Ten Thousand	Paul Kearney	2008
@@ -1488,7 +1487,7 @@ mdp.39015062110666	1376419	3186	995	Titus Groan	Mervyn Peake	1946
 uc1.$b56203	6575730	3186	995	Titus Groan	Mervyn Peake	1946
 uva.x000003215	102068023	3186	995	Titus Groan	Mervyn Peake	1946
 mdp.39015002164583	1910896	3187	N/A	A Glastonbury Romance	John Cowper Powys	1932
-mdp.39015002710021	mdp.39015002710021	3187	N/A	A Glastonbury Romance	John Cowper Powys	1932
+mdp.39015002710021	1910895	3187	N/A	A Glastonbury Romance	John Cowper Powys	1932
 uc1.32106002008461	7128045	3187	N/A	A Glastonbury Romance	John Cowper Powys	1932
 uva.x000391860	102090148	3187	N/A	A Glastonbury Romance	John Cowper Powys	1932
 mdp.39076005047316	1376419	3190	996	Gormenghast	Mervyn Peake	1950
@@ -4179,6 +4178,7 @@ mdp.49015000663758	528028	15319	34182	The Best Science Fiction Stories and Novel
 mdp.39015012977404	528028	15320	2068340	The Best Science Fiction Stories and Novels: 9th Series	T. E. Dikty	1958
 uc1.b3515416	528028	15320	2068340	The Best Science Fiction Stories and Novels: 9th Series	T. E. Dikty	1958
 mdp.39015080874483	6835050	15375	967941	Overthrowing Heaven	Mark L. Van Name	2009
+mdp.39015003498436	764340	15477	34211	The Magazine of Fantasy & Science Fiction: A 30 Year Retrospective	Edward L. Ferman	1980
 mdp.39015011256685	841829	15478	25733	The Best from Fantasy and Science Fiction: A Special 25th Anniversary Anthology	Edward L. Ferman	1974
 mdp.39015056814455	3849956	15480	36296	A Decade of Fantasy and Science Fiction	Robert P. Mills	1960
 mdp.39015058135545	4371029	15535	155225	The City of Ember	Jeanne DuPrau	2003
