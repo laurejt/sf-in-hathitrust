@@ -9,7 +9,8 @@ Data Files
 A list of English-language SF volumes in HathiTrust. It focuses on works published from 1900&ndash;2010.
 
 ### english_anthologies.tsv
-A (reduced) list of HathiTrust volumes tha correspond to English-language SF anthologies in HathiTrust.
+A list of HathiTrust volumes that correspond to English-language SF anthologies in HathiTrust.
+This is a reduced list (i.e. subset of volumes) of `english_volumes.tsv`.
 
 ### Coming soon
 Further in the future, we hope to add a list of non-English SF volumes in HathiTrust.
