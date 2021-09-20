@@ -5,16 +5,18 @@ in the [HathiTrust Digital Library](https://www.hathitrust.org).
 
 Data Files
 ---------
-### english_sf.tsv
+### english_volumes.tsv
 A list of English-language SF volumes in HathiTrust. It focuses on works published from 1900&ndash;2010.
 
+### english_anthologies.tsv
+A (reduced) list of HathiTrust volumes tha correspond to English-language SF anthologies in HathiTrust.
+
 ### Coming soon
-In the near future there will also contain reduced list of HathiTrust volumes that correspond to English-language SF anthologies.
 Further in the future, we hope to add a list of non-English SF volumes in HathiTrust.
 
 Metadata Fields
 ---------------
-Each list will be represented as a `.tsv` that includes the following fields:
+Each list is represented as a `.tsv` that includes the following fields:
 - `htid`: HathiTrust volume identifier
 - `HTRecord`: The volume's corresponding HathiTrust catalogue record ID. We can view
 this record at `https://catalog.hathitrust.org/Record/[HTRecord]`
@@ -33,4 +35,5 @@ Corpus Statistics
 
 | List | # Volumes | # Works | # Authors / Editors |
 |:- | -: | -: | -: |
-| english_sf.tsv | 5,811 | 2,235 | 1,203 |
+| english_volumes.tsv | 5,811 | 2,235 | 1,201 |
+| english_anthologies.tsv | 918 | 669 | 288 |
