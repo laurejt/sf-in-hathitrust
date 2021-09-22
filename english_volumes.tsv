@@ -583,7 +583,7 @@ mdp.39015064983441	5575994	1036	221281	Brasyl	Ian McDonald	2007
 mdp.39015070729945	5600106	1040	389291	Spook Country	William Gibson	2007
 mdp.39015069302605	5562222	1041	210801	Endless Things	John Crowley	2007
 mdp.39015066900765	5616486	1042	658993	Making Money	Terry Pratchett	2007
-inu.30000116458773	5604686	1046	221381	HARM	Brian W. Aldiss	2007
+inu.30000116458773	7588006	1046	221381	HARM	Brian W. Aldiss	2007
 mdp.39015070756146	5604686	1046	221381	HARM	Brian W. Aldiss	2007
 mdp.39015070729978	5600118	1050	905788	Bad Monkeys	Matt Ruff	2007
 uc1.32106018984770	5600118	1050	905788	Bad Monkeys	Matt Ruff	2007
@@ -941,14 +941,14 @@ mdp.39015080858981	6835772	1915	1063793	The Girl With Glass Feet	Ali Shaw	2009
 mdp.39015080872321	6839523	1916	1032893	The Little Stranger	Sarah Waters	2009
 mdp.39015079216290	5936795	1917	926005	The Map of Moments	Christopher Golden & Tim Lebbon	2009
 mdp.39015080847554	6836404	1935	1144035	White is for Witching	Helen Oyeyemi	2009
-mdp.49015000303835	4412272	1940	33433	The Year's Best Science Fiction: Fourth Annual Collection	Gardner Dozois	1987
+mdp.49015000303835	75690	1940	33433	The Year's Best Science Fiction: Fourth Annual Collection	Gardner Dozois	1987
 mdp.49015002156900	4412272	1941	33432	The Year's Best Science Fiction: Fifth Annual Collection	Gardner Dozois	1988
 mdp.49015002156926	4412272	1942	33431	The Year's Best Science Fiction: Sixth Annual Collection	Gardner Dozois	1989
 mdp.49015002156934	4412272	1943	33430	The Year's Best Science Fiction: Seventh Annual Collection	Gardner Dozois	1990
-mdp.49015002156918	4412272	1944	33429	The Year's Best Science Fiction: Eighth Annual Collection	Gardner Dozois	1991
-mdp.49015002156942	4412272	1945	33428	The Year's Best Science Fiction: Ninth Annual Collection	Gardner Dozois	1992
+mdp.49015002156918	75690	1944	33429	The Year's Best Science Fiction: Eighth Annual Collection	Gardner Dozois	1991
+mdp.49015002156942	75690	1945	33428	The Year's Best Science Fiction: Ninth Annual Collection	Gardner Dozois	1992
 mdp.49015002156959	4412272	1946	33427	The Year's Best Science Fiction: Tenth Annual Collection	Gardner Dozois	1993
-mdp.49015002271352	4412272	1948	33425	The Year's Best Science Fiction: Twelth Annual Collection	Gardner Dozois	1995
+mdp.49015002271352	75690	1948	33425	The Year's Best Science Fiction: Twelth Annual Collection	Gardner Dozois	1995
 uc1.32106013246852	75690	1949	34322	The Year's Best Science Fiction: Thirteenth Annual Collection	Gardner Dozois	1996
 uc1.32106014789066	75690	1950	34323	The Year's Best Science Fiction: Fourteenth Annual Collection	Gardner Dozois	1997
 uc1.32106014833872	75690	1951	34324	The Year's Best Science Fiction: Fifteenth Annual Collection	Gardner Dozois	1998
@@ -979,7 +979,7 @@ pst.000049062717	9810308	1966	1972	Fahrenheit 451	Ray Bradbury	1953
 mdp.39015080861803	6803270	1968	197593	Best of the Best Volume 2: 20 Years of the Year's Best Short Science Fiction Novels	Gardner Dozois	2007
 mdp.49015001300590	4513221	1969	23788	City	Clifford D. Simak	1952
 uc1.32106012733850	7132698	1970	1457	Norstrilia	Cordwainer Smith	1975
-ppt.ssfcbz201710000325	7050912	1972	28672	The Foundation Trilogy	Isaac Asimov	1963
+ppt.ssfcbz201710000325	102699414	1972	28672	The Foundation Trilogy	Isaac Asimov	1963
 pst.000017651035	7050912	1972	28672	The Foundation Trilogy	Isaac Asimov	1963
 mdp.39015005766368	123132	1973	2248	Childhood's End	Arthur C. Clarke	1953
 mdp.39015066110555	98351	1973	2248	Childhood's End	Arthur C. Clarke	1953
@@ -1794,7 +1794,7 @@ mdp.39015079195577	5930100	3796	892736	The Judging Eye	R. Scott Bakker	2008
 mdp.39015077667056	5812176	3798	1075006	Neuropath	R. Scott Bakker	2008
 uc1.32106015297291	7136303	3804	37538	Otherness	David Brin	1994
 ppt.ssfcbz201710000357	102699422	3811	1576	Clans of the Alphane Moon	Philip K. Dick	1964
-uc1.31822006005441	102699422	3811	1576	Clans of the Alphane Moon	Philip K. Dick	1964
+uc1.31822006005441	6833933	3811	1576	Clans of the Alphane Moon	Philip K. Dick	1964
 mdp.39015005690295	658574	3812	6102	Rocket Ship Galileo	Robert A. Heinlein	1947
 pst.000066460190	12256313	3812	6102	Rocket Ship Galileo	Robert A. Heinlein	1947
 uc1.32106002114301	1028636	3813	6131	Between Planets	Robert A. Heinlein	1951
@@ -1976,7 +1976,7 @@ uva.x030152386	5698982	4420	211571	The Secret City	Carol Emshwiller	2007
 mdp.39015008821368	287692	4425	1735	The Image of the Beast	Philip José Farmer	1968
 inu.39000000847785	7593963	4426	1736	Blown	Philip José Farmer	1969
 mdp.39015032019336	120089	4427	1737	Traitor to the Living	Philip José Farmer	1973
-mdp.39015047768976	120089	4427	1737	Traitor to the Living	Philip José Farmer	1973
+mdp.39015047768976	288586	4427	1737	Traitor to the Living	Philip José Farmer	1973
 mdp.39015008933569	20045	4429	37558	Born With the Dead	Robert Silverberg	1974
 mdp.39015030712221	1194478	4429	37558	Born With the Dead	Robert Silverberg	1974
 pst.000021753299	7067155	4444	1640	The Legacy of Heorot	Steven Barnes & Larry Niven & Jerry Pournelle	1987
@@ -2013,15 +2013,15 @@ pst.000028923275	12275423	4623	10084	Ghost Story	Peter Straub	1979
 pst.000058843413	7049930	4623	10084	Ghost Story	Peter Straub	1979
 mdp.39015049623351	4207022	4632	177300	The Thing on the Doorstep and Other Weird Stories	H. P. Lovecraft	2001
 mdp.49015002183060	4448616	4637	33400	The Year's Best Fantasy: Second Annual Collection	Ellen Datlow & Terri Windling	1989
-mdp.49015001274357	4510497	4639	33402	The Year's Best Fantasy and Horror: Fourth Annual Collection	Ellen Datlow & Terri Windling	1991
+mdp.49015001274357	102832107	4639	33402	The Year's Best Fantasy and Horror: Fourth Annual Collection	Ellen Datlow & Terri Windling	1991
 mdp.49015002183086	4510497	4640	33403	The Year's Best Fantasy and Horror: Fifth Annual Collection	Ellen Datlow & Terri Windling	1992
 mdp.49015002183094	4510497	4641	33404	The Year's Best Fantasy and Horror: Sixth Annual Collection	Ellen Datlow & Terri Windling	1993
 mdp.49015002289263	4510497	4642	33405	The Year's Best Fantasy and Horror: Seventh Annual Collection	Ellen Datlow & Terri Windling	1994
-mdp.49015002296391	4510497	4643	33406	The Year's Best Fantasy and Horror: Eighth Annual Collection	Ellen Datlow & Terri Windling	1995
-mdp.49015002350610	4510497	4644	33407	The Year's Best Fantasy and Horror: Ninth Annual Collection	Ellen Datlow & Terri Windling	1996
+mdp.49015002296391	102832350	4643	33406	The Year's Best Fantasy and Horror: Eighth Annual Collection	Ellen Datlow & Terri Windling	1995
+mdp.49015002350610	102832350	4644	33407	The Year's Best Fantasy and Horror: Ninth Annual Collection	Ellen Datlow & Terri Windling	1996
 mdp.49015002402023	4510497	4645	33408	The Year's Best Fantasy and Horror: Tenth Annual Collection	Ellen Datlow & Terri Windling	1997
 mdp.49015002807858	4510497	4648	36484	The Year's Best Fantasy & Horror: Fifteenth Annual Collection	Ellen Datlow & Terri Windling	2002
-mdp.49015002833409	4510497	4651	36644	The Year's Best Fantasy & Horror: Sixteenth Annual Collection	Ellen Datlow & Terri Windling	2003
+mdp.49015002833409	102832350	4651	36644	The Year's Best Fantasy & Horror: Sixteenth Annual Collection	Ellen Datlow & Terri Windling	2003
 mdp.49015003197283	4510497	4654	182763	The Year's Best Fantasy & Horror: Nineteenth Annual Collection	Ellen Datlow & Gavin J. Grant & Kelly Link	2006
 mdp.39015016466511	5824109	4657	117	The Dark Light Years	Brian W. Aldiss	1964
 mdp.39015005062339	685834	4658	37615	Last Orders	Brian W. Aldiss	1977
@@ -2504,7 +2504,7 @@ uc1.32106020081029	4090293	7345	197651	Nebula Awards Showcase 2007	Mike Resnick	
 mdp.49015002224211	4598136	7346	180732	Nebula Awards Showcase 2006	Gardner Dozois	2006
 uc1.32106018380953	4090293	7346	180732	Nebula Awards Showcase 2006	Gardner Dozois	2006
 mdp.39015060591719	4964383	7347	158007	Nebula Awards Showcase 2005	Jack Dann	2005
-mdp.49015003135077	4598136	7347	158007	Nebula Awards Showcase 2005	Jack Dann	2005
+mdp.49015003135077	4090293	7347	158007	Nebula Awards Showcase 2005	Jack Dann	2005
 uc1.32106018380961	4090293	7347	158007	Nebula Awards Showcase 2005	Jack Dann	2005
 inu.30000042648794	7587871	7356	3025	Pollen	Jeff Noon	1995
 mdp.39015012309137	164308	7358	7880	Breakfast in the Ruins	Michael Moorcock	1972
@@ -2822,7 +2822,7 @@ mdp.39015016443973	784180	8440	37409	The Human Angle	William Tenn	1956
 uiug.30112074731685	5815178	8441	872185	The Tomorrow People	Judith Merril	1960
 mdp.39015016423827	122667	8443	11938	Tongues of the Moon	Philip José Farmer	1964
 mdp.39015001771479	2200083	8444	8155	Night of Light	Philip José Farmer	1966
-mdp.39015008554696	2200083	8444	8155	Night of Light	Philip José Farmer	1966
+mdp.39015008554696	779282	8444	8155	Night of Light	Philip José Farmer	1966
 mdp.39015042858483	119852	8446	22645	The Mad Goblin	Philip José Farmer	1970
 mdp.39015047768984	784011	8447	11939	The Stone God Awakens	Philip José Farmer	1970
 mdp.39015020731991	1185691	8448	11453	Cosmic Engineers	Clifford D. Simak	1950
@@ -2996,7 +2996,7 @@ mdp.39076001374649	9922508	8792	957658	The Phantom of the Opera	Gaston Leroux	19
 mdp.49015002540376	4542530	8792	957658	The Phantom of the Opera	Gaston Leroux	1910
 osu.32435057540064	100325089	8792	957658	The Phantom of the Opera	Gaston Leroux	1910
 pst.000020668303	7054740	8792	957658	The Phantom of the Opera	Gaston Leroux	1910
-uva.x001862207	7054740	8792	957658	The Phantom of the Opera	Gaston Leroux	1910
+uva.x001862207	101923644	8792	957658	The Phantom of the Opera	Gaston Leroux	1910
 mdp.39015068809527	5563884	8796	1285603	The Opposite House	Helen Oyeyemi	2007
 uva.x030247011	5563884	8796	1285603	The Opposite House	Helen Oyeyemi	2007
 mdp.39015046346725	704304	8797	1050013	The Ghost Stories of Edith Wharton	Edith Wharton	1937
@@ -4174,7 +4174,7 @@ mdp.39015066296537	528028	15314	35613	The Best Science Fiction Stories: 1954	Eve
 uc1.b3515415	528028	15314	35613	The Best Science Fiction Stories: 1954	Everett F. Bleiler & T. E. Dikty	1954
 uc1.32106019361531	7149329	15316	35697	Year's Best Science Fiction Novels: 1953	Everett F. Bleiler & T. E. Dikty	1953
 mdp.39015042852783	528028	15318	34181	The Best Science Fiction Stories and Novels: 1955	T. E. Dikty	1955
-mdp.49015000663758	528028	15319	34182	The Best Science Fiction Stories and Novels: 1956	T. E. Dikty	1956
+mdp.49015000663758	4448530	15319	34182	The Best Science Fiction Stories and Novels: 1956	T. E. Dikty	1956
 mdp.39015012977404	528028	15320	2068340	The Best Science Fiction Stories and Novels: 9th Series	T. E. Dikty	1958
 uc1.b3515416	528028	15320	2068340	The Best Science Fiction Stories and Novels: 9th Series	T. E. Dikty	1958
 mdp.39015080874483	6835050	15375	967941	Overthrowing Heaven	Mark L. Van Name	2009
@@ -4591,13 +4591,13 @@ pst.000012384754	7039884	18323	1052151	The Science Fiction Hall of Fame, Volume 
 pst.000012769308	7039884	18324	33477	The Science Fiction Hall of Fame, Volume IV	Terry Carr	1986
 mdp.39015019938284	1020664	18352	34218	A Science Fiction Argosy	Damon Knight	1972
 mdp.39015030128220	1020662	18354	34866	Astounding: John W. Campbell Memorial Anthology	Harry Harrison	1973
-mdp.39015014285004	7141832	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
-mdp.39076005189357	7141832	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
-uc1.b3287417	7141832	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
-umn.31951001200596w	7141832	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
-mdp.39015014285384	7141832	18370	34613	A Treasury of Great Science Fiction, Volume Two	Anthony Boucher	1959
-uc1.b3287418	7141832	18370	34613	A Treasury of Great Science Fiction, Volume Two	Anthony Boucher	1959
-umn.31951001200597u	7141832	18370	34613	A Treasury of Great Science Fiction, Volume Two	Anthony Boucher	1959
+mdp.39015014285004	1370578	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
+mdp.39076005189357	1370578	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
+uc1.b3287417	1370578	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
+umn.31951001200596w	1370578	18369	34612	A Treasury of Great Science Fiction, Volume One	Anthony Boucher	1959
+mdp.39015014285384	1370578	18370	34613	A Treasury of Great Science Fiction, Volume Two	Anthony Boucher	1959
+uc1.b3287418	1370578	18370	34613	A Treasury of Great Science Fiction, Volume Two	Anthony Boucher	1959
+umn.31951001200597u	1370578	18370	34613	A Treasury of Great Science Fiction, Volume Two	Anthony Boucher	1959
 mdp.39015014762275	1441743	18371	26931	Wandering Stars	Jack Dann	1974
 mdp.39015008808357	270168	18376	26951	The Worlds of Fritz Leiber	Fritz Leiber	1976
 uva.x004095907	101980695	18378	37041	Over the River and Through the Woods	Clifford D. Simak	1996
@@ -4818,7 +4818,7 @@ mdp.39015031988192	1746459	21933	172023	A Modern Utopia	H. G. Wells	1905
 mdp.39015060669036	4975702	21933	172023	A Modern Utopia	H. G. Wells	1905
 nyp.33433105944254	1746458	21933	172023	A Modern Utopia	H. G. Wells	1905
 uc1.31158006719180	11597257	21933	172023	A Modern Utopia	H. G. Wells	1905
-uc1.31822023447592	11597257	21933	172023	A Modern Utopia	H. G. Wells	1905
+uc1.31822023447592	12304320	21933	172023	A Modern Utopia	H. G. Wells	1905
 mdp.39015013938116	702077	21945	11606	Ratner's Star	Don DeLillo	1976
 uc1.32106014713934	702077	21945	11606	Ratner's Star	Don DeLillo	1976
 uc1.$b245181	3563127	21947	8972	Men Like Gods	H. G. Wells	1923
@@ -4919,7 +4919,7 @@ mdp.39015008018528	1188568	23723	3495	Descent into Hell	Charles Williams	1937
 mdp.39015066087910	1188568	23723	3495	Descent into Hell	Charles Williams	1937
 uc1.32106006267303	7120290	23723	3495	Descent into Hell	Charles Williams	1937
 uc1.32106002021571	7129346	23724	3491	All Hallows' Eve	Charles Williams	1945
-uc1.b4953196	7129346	23724	3491	All Hallows' Eve	Charles Williams	1945
+uc1.b4953196	9501049	23724	3491	All Hallows' Eve	Charles Williams	1945
 mdp.39015041109623	3950587	23730	700869	My Ishmael	Daniel Quinn	1997
 mdp.49015001363762	4519987	23790	33694	Omni Best Science Fiction One	Ellen Datlow	1992
 pst.000012360031	7039837	23795	34852	The Third Omni Book of Science Fiction	Ellen Datlow	1985
@@ -5540,7 +5540,7 @@ mdp.39015008735873	1901343	N/A	35008	Other Worlds, Other Seas	Darko Suvin	1970
 mdp.39015064103032	5228670	N/A	35050	Things	Ivan Howard	1964
 mdp.39015046852672	1370446	N/A	35051	Assignment in Tomorrow	Frederik Pohl	1954
 ppt.ssfcbz201710000405	102699462	N/A	35062	Nightmare Age	Frederik Pohl	1970
-pst.000012674602	156890	N/A	35080	Tomorrow, the Stars	Robert A. Heinlein	1952
+pst.000012674602	7057022	N/A	35080	Tomorrow, the Stars	Robert A. Heinlein	1952
 uva.x000359810	101864843	N/A	35080	Tomorrow, the Stars	Robert A. Heinlein	1952
 mdp.39015038159391	3109761	N/A	35262	Destination: Amaltheia	Richard Dixon	1962
 mdp.39015064795126	5276836	N/A	35413	The Best of Cemetery Dance, Volume One	Richard Chizmar	2000
@@ -5808,5 +5808,5 @@ mdp.39015026815236	766053	N/A	2062831	World's Spring	Vladimir Gakov	1981
 uc1.32106005276909	766053	N/A	2062831	World's Spring	Vladimir Gakov	1981
 mdp.39015081739206	6859477	N/A	2173009	Subterranean Gallery	Richard Chizmar & William Schafer	1998
 mdp.39015002218504	264152	N/A	2192911	A Fabulous Creature	Zilpha Keatley Snyder	1981
-mdp.39015053394667	101806132	N/A	2195170	Sons of Darkness, Sons of Light	John A. Williams	1969
+mdp.39015053394667	3565189	N/A	2195170	Sons of Darkness, Sons of Light	John A. Williams	1969
 uva.x000715760	102060595	N/A	2838291	At the Mountains of Murkiness and Other Parodies	George Locke	1973
