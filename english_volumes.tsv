@@ -201,7 +201,7 @@ mdp.39015025116180	34361	258	2018	The Embedding	Ian Watson	1973
 pst.000005477456	7491078	258	2018	The Embedding	Ian Watson	1973
 uc1.$b395382	34361	258	2018	The Embedding	Ian Watson	1973
 uc1.b4355109	9508262	259	1987	The Exile Waiting	Vonda N. McIntyre	1975
-mdp.39015047597136	1911269	260	1961	The Female Man	Joanna Russ	1975
+mdp.39015047597136	740011	260	1961	The Female Man	Joanna Russ	1975
 mdp.39015040110978	726557	263	1787	The Heritage of Hastur	Marion Zimmer Bradley	1975
 uva.x000884459	6821575	263	1787	The Heritage of Hastur	Marion Zimmer Bradley	1975
 mdp.39015005896322	1218726	264	914143	Invisible Cities	Italo Calvino	1972
@@ -440,7 +440,7 @@ mdp.39015018858186	2235062	744	908	Voyage to the Red Planet	Terry Bisson	1990
 mdp.39015058712145	2533005	745	6543	Good Omens	Neil Gaiman & Terry Pratchett	1990
 mdp.39015013390722	914318	754	1372	Prelude to Foundation	Isaac Asimov	1988
 mdp.39015027248882	914318	754	1372	Prelude to Foundation	Isaac Asimov	1988
-mdp.49015002815232	4599268	754	1372	Prelude to Foundation	Isaac Asimov	1988
+mdp.49015002815232	914318	754	1372	Prelude to Foundation	Isaac Asimov	1988
 mdp.39015061863232	4955990	757	943	Unicorn Mountain	Michael Bishop	1988
 uc1.32106009003622	7107493	757	943	Unicorn Mountain	Michael Bishop	1988
 mdp.49015000225715	4404329	761	876	Weaveworld	Clive Barker	1987
@@ -928,7 +928,7 @@ mdp.39015005906592	323316	1822	8151	Something Wicked This Way Comes	Ray Bradbury
 mdp.39015057936240	155535	1822	8151	Something Wicked This Way Comes	Ray Bradbury	1962
 pst.000045256417	7063330	1825	14350	The Lord of the Rings	J. R. R. Tolkien	1965
 pst.000062491532	7063808	1825	14350	The Lord of the Rings	J. R. R. Tolkien	1965
-mdp.49015002377886	4563729	1827	7348	Sabriel	Garth Nix	1995
+mdp.49015002377886	3158516	1827	7348	Sabriel	Garth Nix	1995
 mdp.39015078789040	6766552	1844	873634	Seeds of Earth	Michael Cobley	2009
 mdp.39015080868105	6839594	1849	1000516	Consorts of Heaven	Jaine Fenn	2009
 mdp.39015080898607	6864540	1854	1265571	The Rapture	Liz Jensen	2009
@@ -2568,10 +2568,10 @@ mdp.39015019389348	1546761	7467	34108	Nebula Awards 24	Michael Bishop	1990
 mdp.39076000903802	1546761	7467	34108	Nebula Awards 24	Michael Bishop	1990
 uc1.32106011945232	1546761	7467	34108	Nebula Awards 24	Michael Bishop	1990
 mdp.39076000903794	1546761	7468	34107	Nebula Awards 23	Michael Bishop	1989
-mdp.49015002156645	4487809	7468	34107	Nebula Awards 23	Michael Bishop	1989
+mdp.49015002156645	1546761	7468	34107	Nebula Awards 23	Michael Bishop	1989
 uc1.32106015358101	1546761	7468	34107	Nebula Awards 23	Michael Bishop	1989
 mdp.39015014374733	1546761	7469	34270	Nebula Awards 22	George Zebrowski	1988
-mdp.49015002156603	4487809	7469	34270	Nebula Awards 22	George Zebrowski	1988
+mdp.49015002156603	1546761	7469	34270	Nebula Awards 22	George Zebrowski	1988
 uc1.32106008103175	1546761	7469	34270	Nebula Awards 22	George Zebrowski	1988
 mdp.39015017788343	1546761	7470	34106	Nebula Awards 21	George Zebrowski	1986
 mdp.39076000631726	1546761	7470	34106	Nebula Awards 21	George Zebrowski	1986
@@ -3705,7 +3705,7 @@ pst.000033364728	7045216	11720	19601	The BFG	Roald Dahl	1982
 pst.000025844412	12281246	11721	170110	The Witches	Roald Dahl	1983
 pst.000060224040	5056618	11722	10423	Matilda	Roald Dahl	1988
 mdp.39015004811058	3291	11723	6660	James and the Giant Peach	Roald Dahl	1961
-mdp.49015002824796	4474464	11723	6660	James and the Giant Peach	Roald Dahl	1961
+mdp.49015002824796	3291	11723	6660	James and the Giant Peach	Roald Dahl	1961
 pst.000060224279	5642789	11723	6660	James and the Giant Peach	Roald Dahl	1961
 mdp.49015000896655	4472342	11725	6661	Charlie and the Chocolate Factory	Roald Dahl	1964
 pst.000031453288	12268516	11725	6661	Charlie and the Chocolate Factory	Roald Dahl	1964
@@ -3891,7 +3891,7 @@ mdp.39015032425400	2876193	12427	N/A	Heart of Darkness	Joseph Conrad	1902
 uc1.32106007237149	7118924	12427	N/A	Heart of Darkness	Joseph Conrad	1902
 mdp.39015020699693	1418284	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
 mdp.39015063154549	5142394	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
-mdp.49015000709635	4453244	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
+mdp.49015000709635	2583847	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
 pst.000011223320	7040309	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
 pst.000019110530	7063828	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
 uc1.32106015424184	7133950	12429	1802627	The Painted Bird	Jerzy Kosinski	1965
@@ -4986,7 +4986,7 @@ mdp.39015010233925	104493	24649	37351	Soldier Boy	Michael Shaara	1982
 mdp.39015014279775	940119	24650	27457	Blood and Water and Other Tales	Patrick McGrath	1988
 uc1.b4975963	940119	24650	27457	Blood and Water and Other Tales	Patrick McGrath	1988
 mdp.39015029191478	2604234	24651	31353	The Collected Stories of Robert Silverberg: Volume 1: Secret Sharers	Robert Silverberg	1992
-mdp.49015001393561	4523208	24651	31353	The Collected Stories of Robert Silverberg: Volume 1: Secret Sharers	Robert Silverberg	1992
+mdp.49015001393561	2604234	24651	31353	The Collected Stories of Robert Silverberg: Volume 1: Secret Sharers	Robert Silverberg	1992
 pst.000021311574	7490923	24654	222371	Best SF Stories of Brian W. Aldiss (1988 edition)	Brian W. Aldiss	1988
 mdp.39015042558497	3493485	24655	34453	Millennial Women	Virginia Kidd	1978
 mdp.39015019794885	201794	24656	34317	Interfaces	Virginia Kidd & Ursula K. Le Guin	1980
@@ -5618,7 +5618,7 @@ uc1.b4948844	9495476	N/A	36406	The Second Pacific Book of Science Fiction	John B
 pst.000007041129	7039838	N/A	36440	Perilous Planets	Brian W. Aldiss	1978
 mdp.39015026897044	101001	N/A	36442	The Golden Age of Science Fiction	Kingsley Amis	1981
 pst.000048593830	12269065	N/A	36482	The Prentice Hall Anthology of Science Fiction and Fantasy	Garyn G. Roberts	2000
-mdp.39015059135031	4759861	N/A	36521	Things Invisible to See	Lawrence Schimel	1998
+mdp.39015059135031	4541676	N/A	36521	Things Invisible to See	Lawrence Schimel	1998
 mdp.39015069123910	5389940	N/A	36571	100 Ghastly Little Stories	Stefan Dziemianowicz & Martin H. Greenberg & Robert Weinberg	1993
 mdp.49015002837723	4600265	N/A	36630	Stars: Original Stories Based on the Songs of Janis Ian	Janis Ian & Mike Resnick	2003
 mdp.39015002661174	726057	N/A	37159	In Iron Years	Gordon R. Dickson	1980
