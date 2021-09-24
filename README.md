@@ -1,7 +1,12 @@
 Speculative Fiction in HathiTrust
 =================================
-This repository will be a growing resource for speculative fiction (SF) works
+This repository is a growing resource for speculative fiction (SF) works
 in the [HathiTrust Digital Library](https://www.hathitrust.org).
+
+It is a continuation of the resource collected in the [HTRC ACS 2019 project](https://wiki.htrc.illinois.edu/display/COM/Advanced+Collaborative+Support+%28ACS%29+Awards#2019) "Building Large-Scale Collections of Genre Fiction" by Laure Thompson and David Mimno.
+For more details, see the [Final Project Report](https://wiki.htrc.illinois.edu/download/attachments/31588360/HTRC%20ACS%20Final%20Reportv2.pdf?version=1&modificationDate=1605782898000&api=v2), as well as the [ACH 2021 presentation slides](https://people.cs.umass.edu/~laurejt/slides/ACH_2021.pdf) for "Finding Speculative Fiction in HathiTrust" by Laure Thompson and David Mimno.
+
+If you have any questions, you can contact Laure Thompson at laurejt@cs.umass.edu
 
 Data Files
 ---------
@@ -38,3 +43,8 @@ Corpus Statistics
 |:- | -: | -: | -: |
 | english_volumes.tsv | 5,811 | 2,235 | 1,201 |
 | english_anthologies.tsv | 918 | 669 | 288 |
+
+
+Acknowledgements
+----------------
+We would like to thank and acknowledge Michelle Paolillo, Ryan Dubnicek, and Eleanor Dickson Koehl for their contributions to the HTRC ACS project which helped make this resource possible.
